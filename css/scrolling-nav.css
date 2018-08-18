@@ -17,3 +17,8 @@ header {
 section {
   padding: 150px 0;
 }
+
+header-background{ 
+width:100%;
+height:100px;
+background:url(https://github.com/FelixKuritzen/Portfolio/blob/master/code.gif); }
